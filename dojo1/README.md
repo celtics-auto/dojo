@@ -15,8 +15,8 @@ Criem rotas para manipular os conjuntos de ofertas:
 
 - [x] Adicionar ofertas de compra.
 - [x] Adicionar ofertas de venda.  
-- [ ] Retornar ofertas de compra.
-- [ ] Retornar ofertas de venda.
-- [ ] Retornar todas as ofertas.
+- [x] Retornar ofertas de compra.
+- [x] Retornar ofertas de venda.
+- [x] Retornar todas as ofertas.
 
 Nesse primeiro momento não precisam se preocupar com persistência.
